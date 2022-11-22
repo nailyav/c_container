@@ -1,4 +1,4 @@
 build:
-	g++ main.c -o main
+	gcc main.c -o main
 run:
 	sudo ./main
